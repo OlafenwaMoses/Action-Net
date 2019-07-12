@@ -59,7 +59,7 @@ Running the experiment or prediction requires that you have **Tensorflow**, and 
 
 <b>>>> Video & Prediction Results</b> <br><br>
 Click below to watch the video demonstration of the trained model at work. <br>
-<a href="https://www.youtube.com/watch?v=PupK_qd3bP0" ><img src="images/video_image.jpg" /></a>
+<a href="https://www.youtube.com/watch?v=jmE4JAa6zgo" ><img src="images/video.jpg" /></a>
 <br><br><br><br>
   <img src="images/1.jpg" />
 <pre>
